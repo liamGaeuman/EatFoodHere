@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Recipes>
+	<Recipe>
+		<ItemName>Bacon Cheeseburger</ItemName>
+		<CookTime>18 Minutes</CookTime>
+		<id>BaconCheeseburger</id>
+		<Ingredients>
+			<ul>
+				<li>4 buns</li>
+				<li>bacon</li>
+				<li>cheddar cheese</li>
+				<li>1 teaspoon garlic powder</li>
+				<li>1 1/2 pounds ground beef</li>
+				<li>1 tablespoon Worcestershire sauce</li>
+				<li>1/2 teaspoon black pepper</li>
+			</ul>
+		</Ingredients>
+		<Instructions>
+			<ol>
+				<li>Preheat Grill to 365 degrees.</li>
+				<li>Combine beef, garlic powder, worcestershire sauce, and pepper in bowl with hands.</li>
+				<li>Create 4 even pattys each 3/4 inch thick.</li>
+				<li>Cook 4-5 minutes on each side.</li>
+				<li>Add a slice of cheese and cooked bacon 1 minute before removing patty from grill.</li>
+				<li>place patty on buns and apply desired toppings</li>
+			</ol>
+		</Instructions>
+	</Recipe>
+	<Recipe>
+		<ItemName>Clubhouse Sandwich</ItemName>
+		<CookTime>15 Minutes</CookTime>
+		<id>ClubhouseSandwich</id>
+		<Ingredients>
+			<ul>
+				<li>ham</li>
+				<li>bacon</li>
+				<li>turkey</li>
+				<li>mayo</li>
+				<li>white, wheat, or sour dough bread</li>
+				<li>tomato</li>
+				<li>love</li>
+			</ul>
+		</Ingredients>
+		<Instructions>
+			<ol>
+				<li><strong>First Layer:</strong> Spread the mayo on one side of lightly toasted bread. Add turkey, tomato and cheese (be sure to put the tomatoes in the middle so the bread doesn’t get soggy).</li>
+				<li><strong>Second Layer:</strong>Layer ham, bacon and lettuce.</li>
+				<li>Top with the final slices of bread, secure with cute sandwich picks and cut into quarters</li>
+			</ol>
+		</Instructions>
+	</Recipe>
+	<Recipe>
+		<ItemName>Vegetable Soup</ItemName>
+		<CookTime>40 Minutes</CookTime>
+		<id>VegetableSoup</id>
+		<Ingredients>
+			<ul>
+				<li>carrots</li>
+				<li>celery</li>
+				<li>tomatoes</li>
+				<li>potatoes</li>
+				<li>green beans</li>
+				<li>corn</li>
+				<li>peas</li>
+				<li>yellow onion and garlic</li>
+				<li>2 Tbsp olive oil</li>
+				<li>1/2 tsp dried thyme</li>
+				<li>2 bay leaves</li>
+				<li>1/3 cup chopped fresh parsley</li>
+			</ul>
+		</Ingredients>
+		<Instructions>
+			<ol>
+				<li>Heat olive oil in a large pot over medium-high heat.</li>
+				<li>Add onions, carrots, and celery and saute 4 minutes then add garlic and saute 30 seconds longer.</li>
+				<li>Add in broth, tomatoes, potatoes, parsley, bay leaves, thyme and season with salt and pepper to taste*.</li>
+				<li>Bring to a boil</li>
+				<li>Reduce heat to medium-low, cover and simmer until potatoes are almst fully tender, about 20 - 30 minutes.</li>
+				<li>Add corn and peas and cook 5 minutes longer. Serve warm.</li>
+			</ol>
+		</Instructions>
+	</Recipe>
+    <Recipe>
+		<ItemName>BLT</ItemName>
+		<CookTime>15 Minutes</CookTime>
+		<id>BLT</id>
+		<Ingredients>
+			<ul>
+				<li>4 slices bacon</li>
+				<li>2 leaves lettuce</li>
+				<li>2 slices tomato</li>
+				<li>2 slices bread, toasted</li>
+				<li>1 tablespoon mayonnaise</li>
+			</ul>
+		</Ingredients>
+		<Instructions>
+			<ol>
+				<li>Cook the bacon in a large, deep skillet over medium-high heat until evenly browned, about 10 minutes. Drain the bacon slices on a paper towel-lined plate.</li>
+				<li>Arrange the cooked bacon, lettuce, and tomato slices on one slice of bread. Spread one side of remaining bread slice with the mayonnaise. Bring the two pieces together to make a sandwich.</li>
+			</ol>
+		</Instructions>
+	</Recipe>
+
+</Recipes>
